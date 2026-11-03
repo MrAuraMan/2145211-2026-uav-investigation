@@ -1,13 +1,22 @@
 # Before-class readiness check
 
-Complete this privately before class. Do not submit account passwords, tokens or screenshots of private information.
+Complete this privately before class. Do not submit passwords, tokens, private screenshots or student IDs.
 
-- My individual fork URL is: __________
-- I found the mission brief in my own fork: yes / help needed
-- ChatGPT retrieved the correct file and I verified a sentence: yes / help needed
-- I know whether my current AI connection can read only or also propose writes: yes / unsure
-- I saved a harmless practice note in my fork and reviewed the change: yes / help needed
-- I can explain how to sync my fork after an instructor release: yes / help needed
-- If the connection fails, I can use a released file upload or browser route: yes / help needed
+- My individual fork URL: __________
+- I found MISSION.md in my own fork and independently compared the retrieved sentence: yes / help needed
+- My current ChatGPT mode and access route: __________
+- I know whether it can read only or also propose writes: yes / unsure
+- I opened the actual setup/practice-sensor.csv and verified its three columns and six data rows (header excluded): yes / help needed
+- I checked the mean of 25 degrees Celsius by hand: yes / help needed
+- I saw a rendered temperature-versus-time plot with units and checked the first and last points: yes / help needed
+- Working analysis route: GitHub retrieval / uploaded CSV / spreadsheet / partner or instructor needed
+- I saved a harmless note in work/setup-check.md and reviewed the commit: yes / help needed
+- I can locate Sync fork and RELEASE-STATUS.md: yes / help needed
+- Actual upstream-change rehearsal: passed / not yet tested / help needed
+  - Old marker: ____ New marker: ____ My note remained intact: ____
+- I know a release attachment alone is not imported by Sync fork: yes / help needed
+- I tested the upload fallback, or identified a working alternative: __________
 
-Send any problem privately to the instructor through the course's established channel. Do not change permissions on the instructor repository.
+See [practice instructions and expected checks](DATA-PRACTICE.md). Matching an expected answer alone does not prove file access. Describe any limitation honestly.
+
+Send problems privately through the established course channel. Do not change instructor-repository permissions or publish assessment answers.
