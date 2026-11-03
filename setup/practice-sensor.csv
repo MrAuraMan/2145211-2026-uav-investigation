@@ -1,0 +1,7 @@
+sample_id,time_s,temperature_C
+P01,0,20
+P02,10,22
+P03,20,24
+P04,30,26
+P05,40,28
+P06,50,30
